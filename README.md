@@ -12,7 +12,7 @@ This repo simulates a tiny, real-ish data science project:
 - `.gitignore` — a working example of what to keep out of version control
 - `LICENSE` — so you can see how licensing renders on a repo's landing page
 
-Feel free to explore the strucure of the repo before diving into the exercise below.
+Feel free to explore the structure of the repo before diving into the exercise below.
 
 ## Your task
 
